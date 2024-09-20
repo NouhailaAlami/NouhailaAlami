@@ -3,7 +3,7 @@
 
 ### <div align="center">I'm Nouhaila, a MSc student specialized in Data Management & AI at ECE Paris👨‍💻</div>  
   
-
+## About me
 - 👩‍🎓 I'm currently looking for an internship of 6 months as a Data Analyst starting from 10th February, 2025   
   
 
