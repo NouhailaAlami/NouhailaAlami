@@ -60,9 +60,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NouhailaAlami&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-
 <br />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
