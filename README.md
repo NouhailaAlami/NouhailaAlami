@@ -1,7 +1,7 @@
 <h1 align="left">Hello👋</h1>
 
 
-### <div align="center">I'm Nouhaila, a MSc student specialized in Data Management & AI at ECE Paris👨‍💻</div>  
+### <div align="center">I'm Nouhaila, MSc graduate in Data Management & AI from ECE Paris 👨‍💻</div>  
   
 ## About me
 💼 Data Analyst at AXA France, Direction Épargne et Retraite Entreprise
@@ -14,8 +14,7 @@
 
 💡 Working with Power BI, PySpark, Databricks, and advanced analytics in my current role
 
-❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech
-<br/>  
+❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech — and when I'm not crunching data, you'll find me out running 🏃‍♀️<br/>  
 
 
 ## My Skill Set  
