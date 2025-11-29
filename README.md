@@ -4,15 +4,17 @@
 ### <div align="center">I'm Nouhaila, a MSc student specialized in Data Management & AI at ECE Paris👨‍💻</div>  
   
 ## About me
-- 👩‍🎓 I'm currently looking for an internship of 6 months as a Data Analyst starting from 10th February, 2025   
+💼 Data Analyst at AXA France, Direction Épargne et Retraite Entreprise
   
+🎓 Recently graduated with my MSc in Data Management & AI from ECE Paris  
 
-- 💡 I’m currently learning Spark and R  
+🔍 Actively seeking opportunities in AI Engineering and Data Science
   
+📚 Passionate about continuous learning - currently exploring LangChain, RAG systems, and Docker
 
-- ❓ Fun fact: I was a Mentor of the program DigiGirlz   
-  
+💡 Working with Power BI, PySpark, Databricks, and advanced analytics in my current role
 
+❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech
 <br/>  
 
 
