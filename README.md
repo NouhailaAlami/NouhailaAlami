@@ -14,7 +14,7 @@
 
 💡 Working with Power BI, PySpark, Databricks, and advanced analytics in my current role
 
-❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech — and when I'm not crunching data, you'll find me out running 🏃‍♀️<br/>  
+❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech and when I'm not crunching data, you'll find me out running 🏃‍♀️<br/>  
 
 
 ## My Skill Set  
