@@ -1,19 +1,18 @@
 <h1 align="left">Hello👋</h1>
 
 
-### <div align="center">I'm Nouhaila, MSc graduate in Data Management & AI from ECE Paris 👨‍💻</div>  
+### <div align="center">I'm Nouhaila — Data Analyst / Scientist | AI Enthusiast 🤖👨‍💻</div>  
   
 ## About me
-💼 Data Analyst at AXA France, Direction Épargne et Retraite Entreprise
+💼 Data Analyst / Scientist — 1 year at AXA France (Direction Épargne et Retraite Entreprise)
+Built centralized dashboards and data infrastructure for pension & savings operations. Validated production data, migrated SQL scripts to PySpark, designed ETL workflows in Databricks, and developed a Python-based retirement simulation UI for pension calculations.
   
-🎓 Recently graduated with my MSc in Data Management & AI from ECE Paris  
+🎓 MSc in Data Management & AI from ECE Paris
 
-🔍 Actively seeking opportunities in AI Engineering and Data Science
+🔍 Actively seeking opportunities in Data Analysis/Science
+
+📚 Currently learning — LangChain, RAG systems, Docker, Kubernetes, and exploring AI frameworks
   
-📚 Passionate about continuous learning - currently exploring LangChain, RAG systems, and Docker
-
-💡 Working with Power BI, PySpark, Databricks, and advanced analytics in my current role
-
 ❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech and when I'm not crunching data, you'll find me out running 🏃‍♀️<br/>  
 
 
