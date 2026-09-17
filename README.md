@@ -63,7 +63,7 @@
 
 <br/>   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NouhailaAlami&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouhailaAlami&langs_count=8&layout=compact" align="center" /></div>
 <br/>  
 <br />
 
