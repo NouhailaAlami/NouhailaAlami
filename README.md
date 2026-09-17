@@ -4,14 +4,18 @@
 ### <div align="center">I'm Nouhaila — Data Analyst / Scientist | AI Enthusiast 🤖👨‍💻</div>  
   
 ## About me
-💼 Data Analyst / Scientist — 1 year at AXA France (Direction Épargne et Retraite Entreprise)
-Built centralized dashboards and data infrastructure for pension & savings operations. Validated production data, migrated SQL scripts to PySpark, designed ETL workflows in Databricks, and developed a Python-based retirement simulation UI for pension calculations.
+💼 **Data Analyst / Scientist — 1 year at AXA France (Direction Épargne et Retraite Entreprise)**
+- Built centralized dashboards for pension & savings operations data
+- Validated production data pipelines and ensured data quality
+- Migrated SQL scripts to PySpark for scalability
+- Designed and created ETL workflows in Databricks
+- Developed a Python-based retirement simulation UI for pension calculations
   
-🎓 MSc in Data Management & AI from ECE Paris
+🎓 **MSc in Data Management & AI from ECE Paris**
+** Thesis:** Causal Discovery Research — exploring inference methods for identifying causal relationships in complex systems
+🔍 **Actively seeking opportunities in Data Analysis/Science**
 
-🔍 Actively seeking opportunities in Data Analysis/Science
-
-📚 Currently learning — LangChain, RAG systems, Docker, Kubernetes, and exploring AI frameworks
+📚 **Currently learning:** LangChain, RAG systems, Docker, Kubernetes, and exploring AI frameworks
   
 ❓ Fun fact: I was a Mentor in the DigiGirlz program, helping inspire the next generation of women in tech and when I'm not crunching data, you'll find me out running 🏃‍♀️<br/>  
 
