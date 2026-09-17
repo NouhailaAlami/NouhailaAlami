@@ -63,9 +63,7 @@
 
 <br/>   
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NouhailaAlami&&style=flat-square" align="center" />
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NouhailaAlami&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>
 <br/>  
 <br />
 
