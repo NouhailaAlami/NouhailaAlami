@@ -1,7 +1,7 @@
 <h1 align="left">Hello👋</h1>
 
 
-### <div align="center">I'm Nouhaila — Data Analyst / Scientist | AI Enthusiast 🤖👨‍💻</div>  
+### <div align="center">I'm Nouhaila, Data Analyst / Scientist | AI Enthusiast 🤖👨‍💻</div>  
   
 ## About me
 💼 **Data Analyst / Scientist — 1 year at AXA France (Direction Épargne et Retraite Entreprise)**
