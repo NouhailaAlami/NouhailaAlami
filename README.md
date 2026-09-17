@@ -14,6 +14,7 @@
 🎓 **MSc in Data Management & AI from ECE Paris**
 
 **Thesis:** Causal Discovery Research, exploring inference methods for identifying causal relationships in complex systems
+
 🔍 **Actively seeking opportunities in Data Analysis/Science**
 
 📚 **Currently learning:** LangChain, RAG systems, Docker, Kubernetes, and exploring AI frameworks
