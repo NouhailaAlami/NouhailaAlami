@@ -4,7 +4,7 @@
 ### <div align="center">I'm Nouhaila, Data Analyst / Scientist | AI Enthusiast 🤖👨‍💻</div>  
   
 ## About me
-💼 **Data Analyst / Scientist: 1 year at AXA France (Direction Épargne et Retraite Entreprise)**
+💼 **Data Analyst / Scientist: 1 year at AXA France (Corporate Savings & Retirement Department)**
 - Built centralized dashboards for pension & savings operations data
 - Validated production data pipelines and ensured data quality
 - Migrated SQL scripts to PySpark for scalability
