@@ -36,11 +36,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="35" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
-  <a href="https://www.databricks.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/databricks-icon.svg" alt="Databricks" height="35" /></a>
-
-<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/apache_airflow-icon.svg" alt="Apache Airflow" height="35" /></a>
-
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original.svg" alt="PostgreSQL" height="35" /></a>
 </div>
 
 
